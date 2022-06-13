@@ -26,8 +26,11 @@
 <br>
 
 ### ✔️ 데모 영상(이미지 클릭)
-
-### (/gif/poomang_filter_1.gif)
+ 
+- 검색창 API
+### <img src="gif/poomang_search.gif"> 
+- 지도 랜더링
+### <img src="gif/poomang_map.gif"> 
 
 <br>
 
